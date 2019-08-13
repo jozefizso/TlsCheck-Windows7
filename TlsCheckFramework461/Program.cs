@@ -7,7 +7,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TlsCheckFramework45
+namespace TlsCheckFramework461
 {
     class Program
     {
@@ -15,7 +15,7 @@ namespace TlsCheckFramework45
         {
             try
             {
-                Console.WriteLine($"Target Framework: 4.5");
+                Console.WriteLine($"Target Framework: 4.6.1");
                 Console.WriteLine($"Environment.Version: {Environment.Version}");
                 Console.WriteLine($"ServicePointManager.SecurityProtocol: {ServicePointManager.SecurityProtocol}");
 
