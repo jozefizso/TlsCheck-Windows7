@@ -17,6 +17,8 @@ namespace TlsCheckFramework472
             {
                 Console.WriteLine($"Target Framework: 4.7.2");
                 Console.WriteLine($"Environment.Version: {Environment.Version}");
+                Console.WriteLine($"Environment.OSVersion: {Environment.OSVersion.Version}");
+                Console.WriteLine($"Environment.OSVersionString: {Environment.OSVersion.VersionString}");
                 Console.WriteLine($"ServicePointManager.SecurityProtocol: {ServicePointManager.SecurityProtocol}");
 
                 var client = new HttpClient();
