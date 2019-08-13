@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TlsCheckFramework45", "TlsC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TlsCheckFramework461", "TlsCheckFramework461\TlsCheckFramework461.csproj", "{D82E1939-3297-458D-B6BC-2AB74FABE90E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TlsCheckFramework472", "TlsCheckFramework472\TlsCheckFramework472.csproj", "{9F300B65-1EE2-4492-9080-0D947E74C731}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D82E1939-3297-458D-B6BC-2AB74FABE90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D82E1939-3297-458D-B6BC-2AB74FABE90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D82E1939-3297-458D-B6BC-2AB74FABE90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F300B65-1EE2-4492-9080-0D947E74C731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F300B65-1EE2-4492-9080-0D947E74C731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F300B65-1EE2-4492-9080-0D947E74C731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F300B65-1EE2-4492-9080-0D947E74C731}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
